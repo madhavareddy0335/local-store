@@ -1,0 +1,11 @@
+/* .sliders{
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px gray;
+    animation: sliders 10s linear infinite;
+}
+@keyframes sliders {
+    0%{background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/83d70974403181.5c2e97fb1f91b.jpg);}
+    30%{background-image: url(https://img.freepik.com/vector-premium/diseno-plantilla-control-deslizante-o-banner-venta-moderno_54925-46.jpg);}
+    60%{background-image: url(https://img.freepik.com/vector-premium/diseno-plantilla-control-deslizante-o-banner-venta-moderno_54925-44.jpg);}
+    100%{background-image: url(https://www.sliderrevolution.com/wp-content/uploads/2020/04/big-summer.jpg);}
+} */
